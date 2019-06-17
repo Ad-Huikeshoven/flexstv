@@ -18,7 +18,7 @@ The first column of the file provides a unique id for the voter.
 The last occurrence of a vote in the file for a given voter overrides
 previous votes.
 
-In the the remaining columns appear the ranks (where 1 is the most-preferred) given
+In the remaining columns appear the ranks (where 1 is the most-preferred) given
 by the voter to the candidate. Equal ranks are allowed, and result in prorated votes.
 
 See votes.csv for a contest corresponding to the example at Wikipedia:
